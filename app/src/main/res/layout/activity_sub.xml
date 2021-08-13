@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/darkGray"
     android:orientation="vertical"
     tools:context=".SubActivity">
 
@@ -15,7 +16,7 @@
         android:layout_marginTop="212dp"
         android:minEms="19"
         android:minLines="1"
-        android:textColor="@color/darkGray"
+        android:textColor="@color/teal_200"
         android:textStyle="normal"
         app:layout_constraintHorizontal_bias="0.058"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -32,7 +33,7 @@
         android:layout_marginTop="272dp"
         android:minEms="19"
         android:minLines="1"
-        android:textColor="@color/darkGray"
+        android:textColor="@color/teal_200"
         android:textStyle="normal"
         app:layout_constraintHorizontal_bias="0.093"
         app:layout_constraintLeft_toLeftOf="parent"
