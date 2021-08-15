@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
      */
     private TextView tvDate;
     /**
-     * 그리드뷰 어댑터
+     * 그리드뷰 어댑터a
      */
     private GridAdapter gridAdapter;
 
